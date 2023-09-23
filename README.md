@@ -1,4 +1,4 @@
-![Screenshot (11)](https://github.com/Keerthi-Vasan-Adhithan/Ex.No.-1.1---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/107488929/96eea39c-ef3d-4819-9074-fc5bcad948e0)# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
+# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
 
 ## AIM
 
